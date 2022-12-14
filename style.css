@@ -1,0 +1,39 @@
+.niv{
+    height: 1000px;
+}
+
+
+.niv2{
+    width: 900px;
+}
+
+.hello{
+   display: flex;
+   justify-content: space-around;
+}
+
+.img{
+    height: 900px;
+    width: 300px;
+    
+}
+.hi{
+    margin-top: 100px;
+}
+.hi button{
+    background: blue ;
+    border:none;
+    
+}
+
+.black{
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    background: black;
+}
+
+.black img{
+    height: 50px;
+    width: 50px;
+}

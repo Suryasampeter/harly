@@ -1,0 +1,30 @@
+.body{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    height: 500px;
+    
+  padding-left: 200px;
+}
+.niv{
+  height: 1000px;
+}
+
+
+.niv2{
+  width: 900px;
+}
+
+
+.black{
+  height: 200px;
+  text-align: center;
+  padding-top: 50px;
+  background: black;
+}
+
+.black img{
+  height: 50px;
+  width: 50px;
+}
